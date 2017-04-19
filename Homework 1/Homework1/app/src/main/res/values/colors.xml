@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Sky_Blue">#FF528BE7</color>
+    <color name="Winner_Green">#FF3AEB60</color>
+    <color name="BackGround_Gray">#FFD8D5D5</color>
+</resources>
